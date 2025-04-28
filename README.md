@@ -1,4 +1,4 @@
-# 404 Error Page
+# JellyFin API Documentation
 
 This repository contains a JSON to HTML converter of the Jellyfin web service API.
 
