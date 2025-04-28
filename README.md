@@ -9,7 +9,6 @@ This repository contains a JSON to HTML converter of the Jellyfin web service AP
     git clone https://github.com/MiottoNicola/JellyfinDocumentation.git
     ```
 
-2. Copy the `index.html` file to the root directory of your website.
     
 ### Note
 If the Jellyfin APIs are updated in the future, it is possible to replace the JSON format file with the new file by downloading it from the [official Jellyfin page](https://jellyfin.org).
